@@ -14,3 +14,4 @@ Daftar hadir Pemrograman Visual pertemuan kedua praktisi mengajar
 1. Muhammad Raihan
 1. Sya'da Azanni Putri
 1. Erman Syahputra
+1. Atharifat Gandi
